@@ -1,0 +1,22 @@
+Application: color-adaption-software
+Version:3
+
+License:Public Domain
+Author:Tomoki_Imai
+Email:tomo832@gmail.com
+
+Usage: python main.py [options] arg1 arg2
+Options:
+  -h, --help   show this help message and exit
+  -q, --quiet  don't print status message to stdout
+  -a, --anime  use Imagemagick and make gif animation
+  -p, --point  point centor of outputImage,recommended
+
+Python2.3~2.6 and Python Image Library is needed
+If you want to use -a or --anime option,you need Imagemagick
+
+See Centor of output Image while 20 seconds and See monoImage.
+Or see GIF Animation.
+
+Sample Pictures are By HIROSHI SEO.
+Thanks!
